@@ -1,0 +1,5 @@
+virtualenv
+repos
+*.pyc
+.*.swp
+*.tsv
